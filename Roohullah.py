@@ -113,25 +113,16 @@ def phone():
 #Dev:Roohullah_ZalmiFighter
 ##### LOGO #####
 logo = """
-\033[1;97m#     #  #####        #    # #       #     #
-\033[1;97m#     # #     #       #   #  #        #   #
-\033[1;97m#     #       #       #  #   #         # #
-\033[1;97m#     #  #####  ##### ###    #          #
-\033[1;97m #   #  #             #  #   #         # #
-\033[1;97m  # #   #             #   #  #        #   #
-\033[1;97m   #    #######       #    # ####### #     #
+\033[1;97m 🅡🅞🅞🅗🅤🅛🅛🅐🅗 🅩🅐🅛🅜🅘 🅗🅔🅡🅞
 \033[1;97m•───────────────────────────────────────────•
-\033[1;97m__   __          _             __   ___   _
-\033[1;97m\ \ / /__ _ _ __(_)___ _ _    /  \ |_  ) / |
-\033[1;97m \ V / -_) '_(_-< / _ \ ' \  | () | / / _| |
-\033[1;97m  \_/\___|_| /__/_\___/_||_|  \__(_)___(_)_|
+\033[1;97m 🅡🅞🅞🅗🅤🅛🅛🅐🅗 🅩🅐🅛🅜🅘 🅗🅔🅡🅞
 \033[1;97m•───────────────────────────────────────────•
 \033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•
 
-\033[1;41m\033[1;37m[⚡⚡\033[1;37mAuthor Name: Roohullah Zalmi Fighter Hero     ⚡⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡⚡\033[1;37mPhone Numbr: +923370333081 ⚡⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡⚡\033[1;37mYutube Chnl: Nahe Hai Only Fb ⚡⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡⚡       \033[1;37mFrom: Pakistan      ⚡⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[👉🖕💪\033[1;37mAuthor Name: Roohullah Khan  💪 🖕👈\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[👉🖕💪\033[1;37mWhatsap Numbr: +923370333081 💪🖕👈\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[👉🖕💪\033[1;37m:🅁🄾🄾🄷🅄🄻🄻🄰🄷 🅉🄰🄻🄼🄸 🄵🄸🄶🄷🅃🄴🅁 🄷🄴🅁🄾  ⚡⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[👉🖕💪\033[1;37mFrom: Pakistan      💪 🖕👈\033[1;37m]\033[1;0m
 
 \033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•
 """
@@ -153,18 +144,9 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m#     #  #####        #    # #       #     #
-\033[1;97m#     # #     #       #   #  #        #   #
-\033[1;97m#     #       #       #  #   #         # #
-\033[1;97m#     #  #####  ##### ###    #          #
-\033[1;97m #   #  #             #  #   #         # #
-\033[1;97m  # #   #             #   #  #        #   #
-\033[1;97m   #    #######       #    # ####### #     #
+\033[1;97m 🅡🅞🅞🅗🅤🅛🅛🅐🅗 🅩🅐🅛🅜🅘 🅗🅔🅡🅞
 \033[1;97m•───────────────────────────────────────────•
-\033[1;97m__   __          _             __   ___   _
-\033[1;97m\ \ / /__ _ _ __(_)___ _ _    /  \ |_  ) / |
-\033[1;97m \ V / -_) '_(_-< / _ \ ' \  | () | / / _| |
-\033[1;97m  \_/\___|_| /__/_\___/_||_|  \__(_)___(_)_|
+\033[1;97m 🅡🅞🅞🅗🅤🅛🅛🅐🅗 🅩🅐🅛🅜🅘 🅗🅔🅡🅞
 \033[1;97m•───────────────────────────────────────────•
  """
 CorrectUsername = "Zalmi"
@@ -176,7 +158,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m[+] \033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Babar_Ali
+            print "Logged in successfully as " + username #Dev:Roohullah_ZalmiFighter 
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -249,7 +231,7 @@ def login1():
 		pwd = raw_input('\033[1;97m[+] \x1b[1;97mPassword\x1b[1;97m    : \x1b[1;97m')
 		tik()
 		try:
-			br.open('https://m.facebook.com')
+			br.open('https://mbasic.facebook.com')
 		except mechanize.URLError:
 			print"\n\x1b[1;97mThere is no internet connection"
 			keluar()
@@ -482,7 +464,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Babar_Ali
+			pass #Dev:Roohullah_Zalmifighter
 		try:													
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
 			b = json.loads(a.text)												
@@ -690,18 +672,13 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-#Dev:Babar_Ali
+#Dev:Roohullah_Zalmi Fighter
         print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
 	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m'
 	print"\033[1;97m[+]\033[1;97mTotal \033[1;97mOK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
 	print "\033[1;97m«-----------------\033[1;37mKali.linux\033[1;97m-----------------»"
 	print """
-\033[1;97m ____               _____ ____
-\033[1;97m| __ ) _   _  ___  |_   _/ ___|
-\033[1;97m|  _ \| | | |/ _ \   | || |
-\033[1;97m| |_) | |_| |  __/   | || |___
-\033[1;97m|____/ \__, |\___|   |_| \____|
-\033[1;97m       |___/
+\033[1;97m 🅩🅐🅛🅜🅘 🅕🅘🅖🅗🅣🅔🅡
 """
 	print "\033[1;97m«-----------------\033[1;37mKali.linux\033[1;97m-----------------»"
 	raw_input("\n\033[1;97m[+]\033[1;97mBack")
